@@ -2,7 +2,7 @@
   "name": "stremio-gdrive",
   "description": "GDrive video addon for stremio.",
   "keywords": ["gdrive", "stremio"],
-  "repository": "https://github.com/ssnjrthegr8/stremio-gdrive",
+  "repository": "https://github.com/kmi01/stremio-gdrive",
   "stack": "heroku-20",
   "env": {
     "TOKEN": {
